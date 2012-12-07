@@ -98,5 +98,6 @@ Bundle 'tomasr/molokai'
 Bundle 'vilight.vim'
 Bundle 'twilight'
 Bundle 'twilight256.vim'
+Bundle 'peaksea'
 
 filetype plugin indent on     " required!

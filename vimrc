@@ -12,7 +12,11 @@ syntax on
 
 " color theme
 set background=dark
+set t_Co=256
 color twilight256
+"hi Normal guifg=#d0d0d0 guibg=#202020 
+hi Normal guifg=#F8F8F2 guibg=#1B1D1E
+"hi Normal ctermbg=233
 
 " highlight current line
 au WinLeave * set nocursorline nocursorcolumn
