@@ -52,6 +52,8 @@ Bundle 'scrooloose/syntastic'
 "-------------
 " Other Utils
 " ------------
+Bundle 'guicolorscheme.vim'
+"Bundle 'CSApprox'
 Bundle 'humiaozuzu/fcitx-status'
 Bundle 'nvie/vim-togglemouse'
 
@@ -95,5 +97,6 @@ Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'tomasr/molokai'
 Bundle 'vilight.vim'
 Bundle 'twilight'
+Bundle 'twilight256.vim'
 
 filetype plugin indent on     " required!

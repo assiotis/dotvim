@@ -11,7 +11,8 @@ syntax enable
 syntax on
 
 " color theme
-color molokai 
+set background=dark
+color twilight256
 
 " highlight current line
 au WinLeave * set nocursorline nocursorcolumn
